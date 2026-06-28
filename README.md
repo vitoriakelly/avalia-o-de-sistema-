@@ -31,7 +31,7 @@ O programa verifica automaticamente se o sistema é estável.
 
 O sistema é considerado estável quando:
 
-```text
+
 ρ < 1
 ````
 
@@ -58,8 +58,7 @@ MG1FilaServidorQuestao15.java
 ```
 
 ## Autor
-
-Atividade acadêmica desenvolvida para a disciplina de Avaliação de Sistemas.
+Vitoria Kelly Costa Leopoldo
 
 ```
 ```
